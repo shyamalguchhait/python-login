@@ -1,0 +1,30 @@
+h1{
+    color: red;
+    text-align: center;
+    background-color: yellow;
+
+}
+p{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+#table{
+    color: blue;
+    text-align: center;
+    background-color: white;
+    border-width: 1px;
+    border-collapse: collapse;
+}
+#tr{
+    border-width: 1px;
+    border-collapse: collapse;
+}
+#td{
+    border-width: 1px;
+    border-collapse: collapse;
+}
+#form{
+    align-items:center;
+}
+    
